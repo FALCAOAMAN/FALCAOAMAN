@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FALCAOAMAN
+- 👋 Hi, I’m Aman Kumar
 - 👀 I’m interested in Data Science , Analysing data using Tableau and Python
 - 🌱 I’m currently learning  ML Algorithms
 - 💞️ I’m looking to collaborate on any Machine Learning Projects
